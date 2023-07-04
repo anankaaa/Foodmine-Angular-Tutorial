@@ -1,6 +1,6 @@
 ## Lessons
 
-//next one: Searching Foods//
+//next one: Food Page//
 
 1. Introduciton to the course
 
