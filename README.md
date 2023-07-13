@@ -1,6 +1,6 @@
 ## Lessons
 
-//next one: Food Page//
+//next one: Not Found!//
 
 1. Introduciton to the course
 
